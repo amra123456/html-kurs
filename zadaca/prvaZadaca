@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+</html>
+<body>
+<h2>Yavuz Company</h2>
+<p>Kompanija Yavuz d.o.o osnovana je 2005. godine u Srebreniku kao jedan od prvih proizvodača PVC stolarije u Tuzlanskom kantonu. Cilj nam je profilirati se kao vodeći proizvodač kvalitetne i inovativne PVC stolarije te našim klijentima dati uvijek više od očekivanog.</p>
+<h4> <strong> Prikaz tabele </strong> </h4>
+<hr>  
+<table>
+<tr>
+<th> <strong> Rb.</strong> </th>
+<th> <strong> Ime </strong> </th>
+<th> <strong> Prezime </strong> </th>
+<th> <strong> Br.telefona </strong> </th>
+<th> <strong>  E mail </strong> </th>
+</tr>
+
+<tr>
+<td> 1 </td>
+<td> Amra </td>
+<td> Eminović</td>
+<td> 062005547</td>
+<td> amra-tz@hotmail.com</td>
+</tr>
+
+<tr>
+<td> 2 </td>
+<td> Dženana </td>
+<td> Mahovkić </td>
+<td> 065854789</td>
+<td> dzenanaa@hotmail.com </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> Amela </td>
+<td> Smajić </td>
+<td> 065125896 </td>
+<td> amela-s@gmail.com</td>
+</tr>
+
+</table> 
+<hr> 
+<h3> <p style="color:red;"> Garažna vrata </p> </h3>
+<p> Garažna vrata su velika vrata na garaži koja se otvaraju ručno ili pomoću električnog motora. Garažna vrata u zavisnosti od vaših želja mogu biti dovoljno velika da prime i više automobila. Mala garažna vrata mogu se izraditi u jednoj ploči koja se naginje prema natrag i vraća se po plafonu garaže. Veća vrata obično se prave u nekoliko spojenih ploča koje se kotrljaju na tračnicama preko garažnog plafona ili u rolu iznad ulaznih vrata. </p>
+
+<h3> <p style="color: green;"> Roletne </p> </h3>
+<p> Termička izolacija je vrlo važna jer sprečava gubitak energije, smanjuje troškove električne energije i pomaže stvoriti ugodniji okoliš. Aluminijske roletne termičkim svojstvima izlaze u susret ekološkim specifikacijama za pravilnu izgradnju pasivne kuće. Proizvedene od aluminija i punjene poliuretanskom pjenom istovremeno nude toplinsku i zvučnu izolaciju.</p>
+
+<h4> Moje najdraže knjige </h4>
+
+<ol>
+<li> Kur'an </li>
+<li> Buharijina zbirka hadisa </li>
+<li> Tefsir </li>
+</ol>
+
+</body>
